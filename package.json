@@ -1,4 +1,5 @@
 {
+  "$schema": "https://json.schemastore.org/package.json",
   "name": "freecodecamp",
   "version": "1.0.0",
   "description": "Tutorial for learing backend",
