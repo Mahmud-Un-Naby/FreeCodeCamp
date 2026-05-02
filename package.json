@@ -1,0 +1,24 @@
+{
+  "name": "freecodecamp",
+  "version": "1.0.0",
+  "description": "Tutorial for learing backend",
+  "homepage": "https://github.com/Mahmud-Un-Naby/FreeCodeCamp#readme",
+  "bugs": {
+    "url": "https://github.com/Mahmud-Un-Naby/FreeCodeCamp/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mahmud-Un-Naby/FreeCodeCamp.git"
+  },
+  "license": "ISC",
+  "author": "Mahmud-Saikat",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1",
+    "mongoose": "^9.6.1"
+  }
+}
